@@ -1,0 +1,4 @@
+#Remove empty lines from a files
+$sed -i '/^$/d' animals.txt
+
+
